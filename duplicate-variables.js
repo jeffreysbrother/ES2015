@@ -7,10 +7,6 @@ console.log(student); //this will return { name: 'James' }
 
 
 
-
-
-
-
 //using "const" will cause an exception to be thrown
 
 const girl = { name: 'Hannah' };
